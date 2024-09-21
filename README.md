@@ -13,7 +13,7 @@
 - 📫 How to reach me **akhilbiju66666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&psig=AOvVaw0vyrEsDgPZ1YuWSi9cLCla&ust=1727007996944000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCrvqKE1IgDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/08/cc/1e/08cc1ec473a1452201f6e368e34e951c.gif">
 <p align="left">
 <a href="https://linkedin.com/in/akhil biju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil biju" height="30" width="40" /></a>
 </p>
