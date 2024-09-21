@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/d4/f7/bf/d4f7bfb72e99c483e591a2febbce71e5.gif)
+<img src="https://i.pinimg.com/564x/b9/cc/6a/b9cc6afeee79bfda1f6594e6171b75ba.jpg" alt="MasterHead" width="1280" height="640">
 <h1 align="center">Hi 👋, I'm Akhil Biju</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
 
