@@ -1,4 +1,4 @@
-
+<img src="https://i.pinimg.com/564x/b9/cc/6a/b9cc6afeee79bfda1f6594e6171b75ba.jpg" alt="MasterHead" width="1280" height="300">
 
 <h1 align="center">Hi 👋, I'm Akhil Biju</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
@@ -17,10 +17,12 @@
 <div style="display: flex; justify-content: space-between;">
   <div>
     <a href="https://linkedin.com/in/akhil-biju" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
   </div>
 
-
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" style="margin-left: 20px;">
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
