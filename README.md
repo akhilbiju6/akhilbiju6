@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/b9/cc/6a/b9cc6afeee79bfda1f6594e6171b75ba.jpg" alt="MasterHead" width="1280" height="300">
+
 
 <h1 align="center">Hi 👋, I'm Akhil Biju</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
