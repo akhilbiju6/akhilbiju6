@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/20864934/112645749-933b4000-8e25-11eb-8fc6-5c57c5e6e1ba.jpg)
 <h1 align="center">Hi 👋, I'm Akhil Biju</h1>
-<h3 align="center">A passionate Flutter from India</h3>
+<h3 align="center">A passionate Flutter Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilbiju6&label=Profile%20views&color=0e75b6&style=flat" alt="akhilbiju6" /> </p>
 
@@ -13,7 +13,7 @@
 - 📫 How to reach me **akhilbiju66666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/84/ea/18/84ea187d48c539fcf3cdb15c83d64722.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&psig=AOvVaw0vyrEsDgPZ1YuWSi9cLCla&ust=1727007996944000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCrvqKE1IgDFQAAAAAdAAAAABAJ">
 <p align="left">
 <a href="https://linkedin.com/in/akhil biju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil biju" height="30" width="40" /></a>
 </p>
